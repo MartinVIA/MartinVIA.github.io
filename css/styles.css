@@ -1,3 +1,13 @@
 *{font-family: Arial,serif;}
-html{background-color: rgb(61, 255, 158);}
+html{background-color: rgb(83, 229, 248);}
 body{padding: 0;margin: 0;}
+header{background-color: rgb(31, 132, 172); padding:3%;overflow: hidden;}
+.links{background-color: rgb(107, 161, 231);padding: 2% 5%;float: right; margin: 3px;font-size: smaller;overflow: hidden;}
+.links:hover{background-color: rgb(79, 175, 204); padding: 2% 6%;}
+.leftlogo img{max-inline-size: 10%; min-width: 100px;}
+h1{margin:0 0 10px;text-wrap-mode:nowrap;}
+.rounded{padding: 1%;margin: 3% 1%;border-radius:25px;float: left;background-image: linear-gradient(to right, rgb(15, 189, 160) , rgb(83, 229, 248))}
+.roundedtitle{background-image: linear-gradient(to right, rgb(0, 238, 198) , rgb(193, 236, 241))}
+.proyectimage img{inline-size:40%;width: 30%;margin-right: 5%;float: left;}
+.pfpimage img{margin: 5px; inline-size: 30%;float: left;}
+.text{width: 65%;margin-left:2%;text-align: left;float: left;}
